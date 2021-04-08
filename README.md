@@ -46,7 +46,7 @@
 
 If you want to reach out to me about anything, be it some doubt or just to hangout  just ping me 😉.
 
-<a href=" mailto: chaitanyasai1978@gmail.com ">
+<a href="mailto:chaitanyasai1978@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/CHAITANYASAI-del/CHAITANYASAI-del/blob/main/assets/icons/gmail.png" />
 </a>
 <a href="https://www.linkedin.com/in/chaitanya-sai-gummadavalli-51561a1ba/">
